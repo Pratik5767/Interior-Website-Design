@@ -1,0 +1,24 @@
+/* Styles for the slider container */
+.slider-container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+  }
+
+  /* Styles for the slider track */
+  .slider-track {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+
+  /* Styles for each slide */
+  .slide {
+    width: 100%;
+    flex: 0 0 auto;
+  }
+
+  /* Button styles */
+  .slider-button {
+    cursor: pointer;
+    font-size: 2.5rem;
+}

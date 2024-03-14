@@ -1,6 +1,6 @@
 # Interior Design Website
 
-Welcome to the Interior Design Website created during my internship at TechLeaper Private Limited. This dynamic website aims to showcase innovative interior design concepts and services using HTML, CSS, and JavaScript.
+Welcome to the Interior Design Website created during my internship at TechLeaper Systems Pvt. Ltd. This dynamic website aims to showcase innovative interior design concepts and services using HTML, CSS, and JavaScript.
 
 ## About
 
@@ -13,8 +13,6 @@ The Interior Design Website is a platform designed to inspire and inform visitor
 - **Services Offered**: Discover the range of services, including interior decoration, space planning, and custom furniture design.
 
 - **Client Testimonials**: Read testimonials from satisfied clients to gain insight into their experiences interior design services.
-
-- **Reviews**: Check out the awesome reviews.
 
 ## Technologies Used
 
@@ -40,4 +38,4 @@ This project was developed during an internship at TechLeaper Private Limited, w
 
 https://pratik5767.github.io/Interior-Website-Design
 
-Thank you for visiting the Interior Design Website! We hope you find inspiration for your next interior design project.
+Thank you for visiting the Interior Design Website.

@@ -10,11 +10,11 @@ The Interior Design Website is a platform designed to inspire and inform visitor
 
 - **Interactive Gallery**: Explore a curated collection of stunning interior design projects through an interactive gallery.
   
-- **Services Offered**: Discover the range of services offered by TechLeaper, including interior decoration, space planning, and custom furniture design.
+- **Services Offered**: Discover the range of services, including interior decoration, space planning, and custom furniture design.
 
-- **Client Testimonials**: Read testimonials from satisfied clients to gain insight into their experiences with TechLeaper's interior design services.
+- **Client Testimonials**: Read testimonials from satisfied clients to gain insight into their experiences interior design services.
 
-- **Contact Form**: Connect with the TechLeaper team directly by filling out the contact form to inquire about services or schedule a consultation.
+- **Reviews**: Check out the awesome reviews.
 
 ## Technologies Used
 
@@ -36,6 +36,8 @@ Your feedback is valuable! If you have any suggestions for improvements or new f
 
 This project was developed during an internship at TechLeaper Private Limited, with guidance and support from the team. Special thanks to everyone involved in making this project a reality.
 
-## Link:
+## Github Link:
+
+https://pratik5767.github.io/Interior-Website-Design
 
 Thank you for visiting the Interior Design Website! We hope you find inspiration for your next interior design project.

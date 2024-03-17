@@ -169,7 +169,8 @@ header .navbar a.active{
     bottom: 310px;
     color: #fff;
     top: 26.4rem;
-    right: 2rem 
+    right: 2rem;
+    height: 0px;
 }
 
 section{

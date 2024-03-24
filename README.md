@@ -16,9 +16,9 @@ The Interior Design Website is a platform designed to inspire and inform visitor
 
 ## Technologies Used
 
-- HTML: Markup language used to structure the website's content.
-- CSS: Styling language used to enhance the visual presentation of the website.
-- JavaScript: Programming language used to add interactivity and dynamic functionality to the website.
+- HTML
+- CSS
+- JavaScript
 
 ## How to Access
 
